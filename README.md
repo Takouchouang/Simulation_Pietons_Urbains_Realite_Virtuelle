@@ -1,7 +1,7 @@
 # 🏙 Simulation Piétons Urbains  
 *Une modélisation 3D réaliste des flux piétons dans une ville virtuelle.*  
 
-![Vue de la ville](Images/capture_ville.png)  
+![Vue de la ville](Carte_Ville.jpg)  
 
 ## 🌟 Fonctionnalités  
 - **IA de navigation** : Déplacements naturels avec évitement d'obstacles (NavMesh Unity).  
