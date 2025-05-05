@@ -12,7 +12,8 @@
 ## 🛠 Technologies  
 - **Moteur 3D** : Unity 2022  
 - **Modélisation** : Blender 3.5  
-- **Scripts** : C# (Machines à états finis, Algorithmes de foule)  
+- **Textures/Design** : GIMP 2.10 *(création et édition des textures)*  
+- **Scripts** : C# (NavMesh, Machines à états finis)  
 
 ## 🚀 Guide d'Installation  
 1. Téléchargez [Unity 2022](https://unity.com/fr/download).  
