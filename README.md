@@ -1,5 +1,5 @@
 # 🏙 Simulation Piétons Urbains  
-*Une modélisation 3D réaliste des flux piétons dans une ville virtuelle.*  
+*Une modélisation **3D** réaliste des flux piétons dans une ville virtuelle.*  
 
 ![Vue de la ville](Carte_Ville.jpg)  
 
