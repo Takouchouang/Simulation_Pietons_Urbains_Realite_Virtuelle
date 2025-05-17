@@ -12,7 +12,7 @@
 ## 🛠 Technologies  
 - **Moteur 3D** : Unity 2022  
 - **Modélisation** : Blender 3.5  
-- **Textures/Design** : GIMP 2.10 *(création et édition des textures)*  
+- **Textures/Design** : GIMP 2.10 **(création et édition des textures)**  
 - **Scripts** : **C#** (NavMesh, Machines à états finis)  
 
 ## 🚀 Guide d'Installation  
