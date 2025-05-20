@@ -7,7 +7,7 @@
 - **IA de navigation** : Déplacements naturels avec évitement d'obstacles (NavMesh Unity).  
 - **Variété comportementale** : Piétons pressés, flâneurs, touristes.  
 - **Environnement riche** : Bâtiments, rues, passages piétons modélisés sous Blender.  
-- **Paramétrage en temps réel** : **Densité**, vitesse, points d'intérêt.  
+- **Paramétrage en temps réel** : **Densité**, **vitesse**, **points d'intérêt**.  
 
 ## 🛠 Technologies  
 - **Moteur 3D** : **Unity 2022**  
