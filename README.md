@@ -24,7 +24,7 @@
 3. Ouvrez le projet dans Unity et lancez la scène principale.  
 
 ## 📊 Résultats  
-- **Performances** : 30 FPS avec 300 piétons (PC standard).  
+- **Performances** : **30 FPS** avec 300 piétons (PC standard).  
 - **Détails** : Consultez le [rapport final](Docs/Rapport_Projet.pdf).  
 
 ## 📜 Licence  
