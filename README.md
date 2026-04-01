@@ -31,5 +31,6 @@
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE).  
 
 
-## Auteur
-Ing Takouchouang Fraisse Sacré 
+## 🎓 Auteur
+Takouchouang Fraisse Sacré  
+Ingénieur en Systèmes Intelligents et Multimédia
